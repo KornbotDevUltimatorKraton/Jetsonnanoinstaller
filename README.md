@@ -1,0 +1,2 @@
+# Jetsonnanoinstaller
+Jetson nano installer
